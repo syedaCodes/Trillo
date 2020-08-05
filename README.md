@@ -1,2 +1,3 @@
 # Trillo
-A real estate website design with Grid
+An all in one booking app with Flexbox.
+have a look: https://syedacodes.github.io/Trillo/
